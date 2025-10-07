@@ -17,4 +17,9 @@ We can contact the requriter from this job portal regarding the opportunity whic
 Further, to get daily update regarding the recent jobs, you have the option to sig in or register, where you can get daily updates 🔔.
 Also, we can upload our ✉️ CV for reference.
 
+📝 Contents:
+
+HTML and CSS code is updated for future reference </>.
+Also, the output for this code is also attached.
+
 You can also access this webpage from the following link:🔗 https://latha16.neocities.org/Viji/Basics/jobsite
