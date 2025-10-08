@@ -1,4 +1,4 @@
-# 💼 JOBSITE WEBPAGE SAMPLE
+# 💼 Jobsite Webpage Sample:
 
 * This portal aims to reduce the gap among the  `job seekers` and the `employers`. 
 * Allowing employers to post `jobs` and `find candidates`, while job seekers can search for openings, create profiles, and apply for the required positions. 
